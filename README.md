@@ -33,10 +33,9 @@ Currently, I'm advancing my expertise AI architectures: multi-agent systems, age
 ### **AI & Generative AI**
 <p>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/LLM-69A248?style=for-the-badge&logo=llm&logoColor=white" alt="LLM"/>
   <img src="https://img.shields.io/badge/STS-47A248?style=for-the-badge&logo=sts&logoColor=white" alt="speech-to-speech"/>
-  <img src="https://img.shields.io/badge/Gemini-99A248?style=for-the-badge&logo=gemini&logoColor=white" alt="gemini"/>
+  <img src="https://img.shields.io/badge/AI Agents-99A248?style=for-the-badge&logo=aiagents&logoColor=white" alt="aiagents"/>
 </p>
 
 ### **Web Development**
