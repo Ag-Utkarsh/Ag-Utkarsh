@@ -2,43 +2,25 @@
 
 ## 🚀 About Me
 
-I am a computer science engineer with a passion for **innovative, intelligent solutions** at the forefront of emerging technologies. My expertise lies in transforming ambitious ideas into impactful software—whether it’s developing advanced AI-powered applications, architecting educational platforms, or designing seamless user experiences.
+Currently, I'm advancing my expertise AI architectures: multi-agent systems, agentic workflows, LLM fine tuning, and voice agents. I'm equally fascinated by exploring system design principles across distributed software systems, understanding the foundations that power scalable, resilient applications.
 
-With a track record spanning web development, conversational AI, and interactive gaming, I excel at bridging the gap between visionary concepts and practical implementation. My work is fueled by curiosity and a commitment to solving meaningful, real-world challenges through technology that inspires and empowers.
 
----
+## 🎯 **Key Focus Areas (2025 & Beyond)**
 
-## 🎯 What I'm All About
+1. **Retrieval-Augmented Generation (RAG)**
+   - Vector databases (Supabase pgvector, ChromaDB)
+   - Multi-modal search (semantic + traditional)
+   - LLM-powered query understanding and synthesis
 
-- 🔭 **Currently Building:** Speech-to-speech models, voice bots, games
-- 🧠 **AI & Automation:** Developing conversational AI, agents, real-time models
-- 🌱 **Always Learning:** Advancing in speech technology, Python ecosystems, and real-time data applications
-- 💡 **Innovation Focus:** Creating AI-driven solutions for learning, communication, and entertainment
-- 🤝 **Open to Collaborate:** **AI projects**, **games**, **voice assistants**, and **open-source initiatives**
-- 💬 **Let's Talk About:** **Speech technology**, **AI agents**, **web development**, and **Python projects*
+2. **Real-Time AI Agents**
+   - Streaming speech-to-speech conversations
+   - Multi-Agent architecture
 
----
+3. **Full-Stack AI Applications**
+   - Modern frontend (React/Vite)
+   - Backend (Python/FastAPI/Uvicorn)
+   - Production-ready deployment (Docker, Kubernetes)
 
-## 🛠️ My Expertise
-
-### 🤖 **AI & Speech Technology**
-- **Speech Models & Voice Bots:** Speech-to-speech, LLM, Speech-to-text, Text-to-Speech
-- **Conversational AI:** Context-aware bots, dialogue management, RAG
-- **Databases** ChromaDB, Pinecone
-
-### 🎮 **Games & Interactive Apps**
-- **Game Development:** Unity games, interactive experiences, Python-based engines
-
-### 🌐 **Full-Stack Development**
-- **Frontend:** HTML, CSS, JavaScript, SCSS
-- **Backend:** Python (Flask, FastAPI), Node.js
-- **Databases:** SQL
-- **Frameworks:** React, Nextjs
-
-### 🛠️ **Tools**
-- **Unity**, **GitHub**, **Git**, **n8n**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +28,6 @@ With a track record spanning web development, conversational AI, and interactive
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
 
 ### **AI & Generative AI**
@@ -63,22 +44,17 @@ With a track record spanning web development, conversational AI, and interactive
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-61BAFB?style=for-the-badge&logo=Next.js&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Next.js-61BAFB?style=for-the-badge&logo=Next.js&logoColor=black" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
 ### **Databases & Cloud**
 <p>
-  <img src="https://img.shields.io/badge/SQ-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Pincone-336791?style=for-the-badge&logo=pincone&logoColor=white" alt="Pinecone"/>
   <img src="https://img.shields.io/badge/ChromaDB-47A248?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"/>
   <img src="https://img.shields.io/badge/Docker-97A248?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-### **Game Engine**
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </p>
 
 ### **Tools & Others**
@@ -87,22 +63,21 @@ With a track record spanning web development, conversational AI, and interactive
   <img src="https://img.shields.io/badge/n8n-007ACC?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
----
 
-## 🌟 Featured Projects
+🌟 **Featured Projects**
 
-> 🗣️ **STS** – Speech to Speech Model ([repo link](https://github.com/Ag-Utkarsh/STS))  
-> 📞 **Twilio-STS** – Speech to Speech Model connected with phones ([repo link](https://github.com/Ag-Utkarsh/Twilio-STS))
+**🛍️ E-Commerce AI**
+> **Product Discovery Assistant** – End-to-end RAG assistant for intelligent product discovery ([repo](https://github.com/Ag-Utkarsh/product-discovery--assistant))
+> Stack: FastAPI • React (Vite) • Supabase pgvector • Google Gemini • RAG Pipeline
 
----
+**🗣️ Speech & Conversational AI**
+> **STS (Speech-to-Speech)** – Real-time conversational AI ([repo](https://github.com/Ag-Utkarsh/STS))
+> **Twilio-STS** – Phone-integrated speech conversations ([repo](https://github.com/Ag-Utkarsh/Twilio-STS))
 
-## 🤝 Let's Connect & Collaborate!
+**📚 AI-Powered Learning**
+> **RAG-Techniques** – Comprehensive guide to different RAG architecture patterns ([repo](https://github.com/Ag-Utkarsh/RAG-Techniques))
+> **Skill-Sphere** – Interactive learning platform ([repo](https://github.com/Ag-Utkarsh/Skill-Sphere))
 
-I'm always excited to work on challenging projects that combine **AI**, **education**, and **real-world impact**. Whether you need:
-
-- 🧠 **Speech/AI Solutions** for assistants and learning
-- 🎮 **Games** interactive game
-- 📈 **Analytics & Data Tools** for insights and automation
 
 <div align="center">
   
